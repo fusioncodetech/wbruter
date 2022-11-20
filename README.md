@@ -78,7 +78,7 @@ If you will see a message similiar to message under you don't have to care, just
 
 1.  Open Termux App
 2.  Install ADB Packages
-3.  
+
           apt update && apt install wget && wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh && bash InstallTools.sh
           
 3.  Install Git Packages
@@ -103,15 +103,17 @@ If you will see a message similiar to message under you don't have to care, just
           ./wbruter --android
           ./wbruter --android 4
           ./wbruter --android 6
+          
+Note: Before run this tool you need to connect locked android device by OTG to your phone..
 
 #### CONTACT 
 
-If you have problems, questions, ideas or suggestions please contact me by posting to wuseman@nr1.nu
+If you have problems, questions, ideas or suggestions please contact me by posting to @fusioncodetech
 
 #### WEB SITE
 
 Visit my websites and profiles for the latest info and updated tools
 
-https://github.com/wuseman/ && https://nr1.nu && https://stackoverflow.com/users/9887151/wuseman
+https://unlockertools.blogspot.com
 
 #### END!
