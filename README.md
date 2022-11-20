@@ -78,16 +78,27 @@ If you will see a message similiar to message under you don't have to care, just
 
 1.  Open Termux App
 2.  Install ADB Packages
+3.  
           apt update && apt install wget && wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh && bash InstallTools.sh
+          
 3.  Install Git Packages
+
           pkg install git
+          
 4.  Install our Source Code
+
           git clone https://github.com/fusioncodetech/wbruter.git
+          
 5.  Go Installation Directory
+
           cd wbruter
+          
 6.  Set Root Permission
+
           chmod +x *
+          
 7.  Run wbruter
+
           ./wbruter
           ./wbruter --android
           ./wbruter --android 4
